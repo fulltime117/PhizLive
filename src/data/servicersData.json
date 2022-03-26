@@ -1,0 +1,290 @@
+{   "category": [
+            "Cabinet Maker",
+            "Mason",
+            "Residential Plumber",
+            "Electrician",
+            "Cleaning services",
+            "Maid Services",
+            "Computer Repair",
+            "Appliance Repair",
+            "Home Service Massage",
+            "Carpet Cleaner",
+            "Lawn Cleaner",
+            "Landscape Architect"
+        ],
+
+
+    "servicers":[
+        {
+            "id":1,
+            "name": "Davey Jones",
+            "job": "LANDSCAPE DESIGNER",
+            "face":"../../assets/profile/avata8.png",
+            "banner":"../../assets/serviceImg/profileback/banner1.png",
+            "star":4,
+            "review":52,
+            "customerReview":{
+                "name":["Garrlly","Michael","Deborah"],
+                "face":["../../assets/profile/avata10.png","../../assets/profile/avata6.png","../../assets/profile/avata5.png"],
+                "giveText":[
+                    "I love this designer, easy to work with and very professional, I recommend him!!!",
+                    "Design was very, very speedy. Remarkably pleased. Excellent Designer. Recommended.",
+                    "Immensely speedy design! A very first-rate Designer. High-standard correspondence."
+                ],
+                "replyText":[
+                    "Thanks for a good review, hope to work with you again in the future!",
+                    "Thank you for the kind rating, We really appreciate your business",
+                    "Thank you so much for your positive rating "
+                ],
+                "reviewNumber":6,
+                "giveTime":["Aug 15,2020","Sep 6,2020","Oct 6,2020"],
+                "replyTime":["Aug 16,2020","Sep 7,2020","Oct 6,2020"]
+            },
+            "gallary":[
+                "../../assets/serviceImg/gallary/g1-1.jpg",
+                "../../assets/serviceImg/gallary/g1-2.jpg",
+                "../../assets/serviceImg/gallary/g1-3.jpg",
+                "../../assets/serviceImg/gallary/g1-4.jpg"
+            ]           
+        },
+    
+        {
+            "id":2,
+            "name": "Joseph Perry",
+            "job": "electrician",
+            "face":"../../assets/profile/avata10.png",
+            "banner":"../../assets/serviceImg/profileback/banner2.jpg",
+            "star":4,
+            "review":50,
+            "customerReview":{
+                "name":["C M J.","Markie B.","Elaine T."],
+                "face":["../../assets/profile/avata11.png","../../assets/profile/avata5.png","../../assets/profile/avata2.png"],
+                "giveText":[
+                    "Work was great,Thanks very much!",
+                    "These guys are great and I will be using them again in the future.",
+                    " I am glad I found the right people to do the job!"
+                ],
+                "replyText":[
+                    "I'm pleased we were able to make things better and I hope we see you again soon.",
+                    "We hope you'll come and see us again soon!",
+                    "I am happy that you're happy, and we're looking forward to your next visit. "
+                ],
+                "reviewNumber":5,
+                "giveTime":["Aug 6,2020","Sep 15,2020","Oct 22,2020"],
+                "replyTime":["Aug 7,2020","Sep 17,2020","Oct 23,2020"]
+            },
+            "gallary":[
+                "../../assets/serviceImg/gallary/g2-1.jpg",
+                "../../assets/serviceImg/gallary/g2-2.jpg",
+                "../../assets/serviceImg/gallary/g2-3.jpg",
+                "../../assets/serviceImg/gallary/g2-4.jpg"
+            ] 
+        },
+    
+        {
+            "id":3,
+            "name": "Robert Williams",
+            "job": "carpenter",
+            "face":"../../assets/profile/avata2.png",
+            "banner":"../../assets/serviceImg/profileback/banner3.png",
+            "star":4,
+            "review":59,
+            "customerReview":{
+                "name":["Dominic.","Kevin .","Stewart."],
+                "face":["../../assets/profile/avata4.png","../../assets/profile/avata5.png","../../assets/profile/avata6.png"],
+                "giveText":[
+                    "Quality of item was great. Quality of the wrapping was good. Fantastic delivery.",
+                    "Great packaging. Delivery was high-standard. Item is of excellent quality.",
+                    "Fantastic service. Item is of great quality! Quick delivery. The packaging was immensely wonderful"
+                ],
+                "replyText":[
+                    "Thank you for your interest in me.",
+                    "I was not aware of it until you pointed it out. ",
+                    "I have enjoyed receiving tips and instructions from you during my physical therapy sessions."
+                ],
+                "reviewNumber":6,
+                "giveTime":["Aug 1,2020","Sep 18,2020","Oct 2,2020"],
+                "replyTime":["Aug 2,2020","Sep 18,2020","Oct 3,2020"]
+            },
+            "gallary":[
+                "../../assets/serviceImg/gallary/g3-1.jpg",
+                "../../assets/serviceImg/gallary/g3-2.jpg",
+                "../../assets/serviceImg/gallary/g3-3.jpg",
+                "../../assets/serviceImg/gallary/g3-4.jpg"
+            ]  
+        },
+    
+        {
+            "id":4,
+            "name": "Augustus Morri",
+            "job": "plumber",
+            "face":"../../assets/profile/avata4.png",
+            "banner":"../../assets/serviceImg/profileback/banner4.png",
+            "star":4,
+            "review":42,
+            "customerReview":{
+                "name":["Michelle .","Pawel.","Graham ."],
+                "face":["../../assets/profile/avata2.png","../../assets/profile/avata8.png","../../assets/profile/avata11.png"],
+                "giveText":[
+                    "Sterling delivery. The item was meritorious!",
+                    "Speedy to send. Would buy from again.",
+                    "Very, very high-standard delivery. Lovely packaging. Recommended"
+                ],
+                "replyText":[
+                    "Thank you for your detailed feedback.",
+                    "Thanks for the feedback regarding how I will improve in next time",
+                    "Let’s plan to meet again next month."
+                ],
+                "reviewNumber":6,
+                "giveTime":["Aug 15,2020","Sep 6,2020","Oct 6,2020"],
+                "replyTime":["Aug 16,2020","Sep 7,2020","Oct 6,2020"]
+            },
+            "gallary":[
+                "../../assets/serviceImg/gallary/g4-1.jpg",
+                "../../assets/serviceImg/gallary/g4-2.jpg",
+                "../../assets/serviceImg/gallary/g4-3.jpg",
+                "../../assets/serviceImg/gallary/g4-4.jpg"
+            ]  
+        },
+    
+        {
+            "id":5,
+            "name": "Davey Jones",
+            "job": "LANDSCAPE DESIGNER",
+            "face":"../../assets/profile/avata8.png",
+            "banner":"../../assets/serviceImg/profileback/banner1.png",
+            "star":4,
+            "review":52,
+            "customerReview":{
+                "name":["Garrlly","Michael","Deborah"],
+                "face":["../../assets/profile/avata9.png","../../assets/profile/avata6.png","../../assets/profile/avata3.png"],
+                "giveText":[
+                    "I love this designer, easy to work with and very professional, I recommend him!!!",
+                    "Design was very, very speedy. Remarkably pleased. Excellent Designer. Recommended.",
+                    "Immensely speedy design! A very first-rate Designer. High-standard correspondence."
+                ],
+                "replyText":[
+                    "Thanks for a good review, hope to work with you again in the future!",
+                    "Thank you for the kind rating, We really appreciate your business",
+                    "Thank you so much for your positive rating "
+                ],
+                "reviewNumber":6,
+                "giveTime":["Aug 15,2020","Sep 6,2020","Oct 6,2020"],
+                "replyTime":["Aug 16,2020","Sep 7,2020","Oct 6,2020"]
+            },
+            "gallary":[
+                "../../assets/serviceImg/gallary/g1-1.jpg",
+                "../../assets/serviceImg/gallary/g1-2.jpg",
+                "../../assets/serviceImg/gallary/g1-3.jpg",
+                "../../assets/serviceImg/gallary/g1-4.jpg"
+            ]              
+        },
+    
+        {
+            "id":6,
+            "name": "Joseph Perry",
+            "job": "electrician",
+            "face":"../../assets/profile/avata10.png",
+            "banner":"../../assets/serviceImg/profileback/banner2.jpg",
+            "star":4,
+            "review":50,
+            "customerReview":{
+                "name":["C M J.","Markie B.","Elaine T."],
+                "face":["../../assets/profile/avata9.png","../../assets/profile/avata7.png","../../assets/profile/avata2.png"],
+                "giveText":[
+                    "Work was great,Thanks very much!",
+                    "These guys are great and I will be using them again in the future.",
+                    " I am glad I found the right people to do the job!"
+                ],
+                "replyText":[
+                    "I'm pleased we were able to make things better and I hope we see you again soon.",
+                    "We hope you'll come and see us again soon!",
+                    "I am happy that you're happy, and we're looking forward to your next visit. "
+                ],
+                "reviewNumber":5,
+                "giveTime":["Aug 6,2020","Sep 15,2020","Oct 22,2020"],
+                "replyTime":["Aug 7,2020","Sep 17,2020","Oct 23,2020"]
+            },
+            "gallary":[
+                "../../assets/serviceImg/gallary/g2-1.jpg",
+                "../../assets/serviceImg/gallary/g2-2.jpg",
+                "../../assets/serviceImg/gallary/g2-3.jpg",
+                "../../assets/serviceImg/gallary/g2-4.jpg"
+            ] 
+            
+        },
+    
+        {
+            "id":7,
+            "name": "Robert Williams",
+            "job": "carpenter",
+            "face":"../../assets/profile/avata2.png",
+            "banner":"../../assets/serviceImg/profileback/banner3.png",
+            "star":4,
+            "review":59,
+            "customerReview":{
+                "name":["Dominic.","Kevin .","Stewart."],
+                "face":["../../assets/profile/avata5.png","../../assets/profile/avata6.png","../../assets/profile/avata3.png"],
+                "giveText":[
+                    "Quality of item was great. Quality of the wrapping was good. Fantastic delivery.",
+                    "Great packaging. Delivery was high-standard. Item is of excellent quality.",
+                    "Fantastic service. Item is of great quality! Quick delivery. The packaging was immensely wonderful"
+                ],
+                "replyText":[
+                    "Thank you for your interest in me.",
+                    "I was not aware of it until you pointed it out. ",
+                    "I have enjoyed receiving tips and instructions from you during my physical therapy sessions."
+                ],
+                "reviewNumber":6,
+                "giveTime":["Aug 1,2020","Sep 18,2020","Oct 2,2020"],
+                "replyTime":["Aug 2,2020","Sep 18,2020","Oct 3,2020"]
+            },
+            "gallary":[
+                "../../assets/serviceImg/gallary/g3-1.jpg",
+                "../../assets/serviceImg/gallary/g3-2.jpg",
+                "../../assets/serviceImg/gallary/g3-3.jpg",
+                "../../assets/serviceImg/gallary/g3-4.jpg"
+            ]
+            
+        },
+    
+        {
+            "id":8,
+            "name": "Augustus Morri",
+            "job": "plumber",
+            "face":"../../assets/profile/avata4.png",
+            "banner":"../../assets/serviceImg/profileback/banner4.png",
+            "star":4,
+            "review":42,
+            "customerReview":{
+                "name":["Garrlly","Michael","Deborah"],
+                "face":["../../assets/profile/avata1.png","../../assets/profile/avata6.png","../../assets/profile/avata5.png"],
+                "giveText":[
+                    "I love this designer, easy to work with and very professional, I recommend him!!!",
+                    "Design was very, very speedy. Remarkably pleased. Excellent Designer. Recommended.",
+                    "Immensely speedy design! A very first-rate Designer. High-standard correspondence."
+                ],
+                "replyText":[
+                    "Thanks for a good review, hope to work with you again in the future!",
+                    "Thank you for the kind rating, We really appreciate your business",
+                    "Thank you so much for your positive rating "
+                ],
+                "reviewNumber":6,
+                "giveTime":["Aug 15,2020","Sep 6,2020","Oct 6,2020"],
+                "replyTime":["Aug 16,2020","Sep 7,2020","Oct 6,2020"]
+            },
+            "gallary":[
+                "../../assets/serviceImg/gallary/g4-1.jpg",
+                "../../assets/serviceImg/gallary/g4-2.jpg",
+                "../../assets/serviceImg/gallary/g4-3.jpg",
+                "../../assets/serviceImg/gallary/g4-4.jpg"
+            ]            
+        }
+    ]
+
+    
+
+
+
+    
+}
